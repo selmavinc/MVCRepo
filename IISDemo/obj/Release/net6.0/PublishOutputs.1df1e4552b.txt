@@ -1,0 +1,7 @@
+D:\Training\MvcProjectRepo\IISDemo\obj\Release\net6.0\PubTmp\Out\IISDemo.exe
+D:\Training\MvcProjectRepo\IISDemo\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Training\MvcProjectRepo\IISDemo\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Training\MvcProjectRepo\IISDemo\obj\Release\net6.0\PubTmp\Out\IISDemo.dll
+D:\Training\MvcProjectRepo\IISDemo\obj\Release\net6.0\PubTmp\Out\IISDemo.deps.json
+D:\Training\MvcProjectRepo\IISDemo\obj\Release\net6.0\PubTmp\Out\IISDemo.runtimeconfig.json
+D:\Training\MvcProjectRepo\IISDemo\obj\Release\net6.0\PubTmp\Out\IISDemo.pdb

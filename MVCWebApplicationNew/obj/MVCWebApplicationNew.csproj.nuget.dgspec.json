@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Practice\\MVCWebApplicationNew\\MVCWebApplicationNew.csproj": {}
+    "D:\\Training\\MvcProjectRepo\\MVCWebApplicationNew\\MVCWebApplicationNew.csproj": {}
   },
   "projects": {
-    "C:\\Practice\\MVCWebApplicationNew\\MVCWebApplicationNew.csproj": {
+    "D:\\Training\\MvcProjectRepo\\MVCWebApplicationNew\\MVCWebApplicationNew.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Practice\\MVCWebApplicationNew\\MVCWebApplicationNew.csproj",
+        "projectUniqueName": "D:\\Training\\MvcProjectRepo\\MVCWebApplicationNew\\MVCWebApplicationNew.csproj",
         "projectName": "MVCWebApplicationNew",
-        "projectPath": "C:\\Practice\\MVCWebApplicationNew\\MVCWebApplicationNew.csproj",
+        "projectPath": "D:\\Training\\MvcProjectRepo\\MVCWebApplicationNew\\MVCWebApplicationNew.csproj",
         "packagesPath": "C:\\Users\\cogdotnet1686\\.nuget\\packages\\",
-        "outputPath": "C:\\Practice\\MVCWebApplicationNew\\obj\\",
+        "outputPath": "D:\\Training\\MvcProjectRepo\\MVCWebApplicationNew\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

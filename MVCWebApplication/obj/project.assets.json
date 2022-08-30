@@ -9974,11 +9974,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Practice\\MVCWebApplication\\MVCWebApplication.csproj",
+      "projectUniqueName": "D:\\Training\\MvcProjectRepo\\MVCWebApplication\\MVCWebApplication.csproj",
       "projectName": "MVCWebApplication",
-      "projectPath": "C:\\Practice\\MVCWebApplication\\MVCWebApplication.csproj",
+      "projectPath": "D:\\Training\\MvcProjectRepo\\MVCWebApplication\\MVCWebApplication.csproj",
       "packagesPath": "C:\\Users\\cogdotnet1686\\.nuget\\packages\\",
-      "outputPath": "C:\\Practice\\MVCWebApplication\\obj\\",
+      "outputPath": "D:\\Training\\MvcProjectRepo\\MVCWebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

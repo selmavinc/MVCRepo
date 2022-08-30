@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Practice\\WebApiApplication\\WebApiApplication.csproj": {}
+    "D:\\Training\\MvcProjectRepo\\WebApiApplication\\WebApiApplication.csproj": {}
   },
   "projects": {
-    "C:\\Practice\\WebApiApplication\\WebApiApplication.csproj": {
+    "D:\\Training\\MvcProjectRepo\\WebApiApplication\\WebApiApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Practice\\WebApiApplication\\WebApiApplication.csproj",
+        "projectUniqueName": "D:\\Training\\MvcProjectRepo\\WebApiApplication\\WebApiApplication.csproj",
         "projectName": "WebApiApplication",
-        "projectPath": "C:\\Practice\\WebApiApplication\\WebApiApplication.csproj",
+        "projectPath": "D:\\Training\\MvcProjectRepo\\WebApiApplication\\WebApiApplication.csproj",
         "packagesPath": "C:\\Users\\cogdotnet1686\\.nuget\\packages\\",
-        "outputPath": "C:\\Practice\\WebApiApplication\\obj\\",
+        "outputPath": "D:\\Training\\MvcProjectRepo\\WebApiApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
