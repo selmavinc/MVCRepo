@@ -1,0 +1,25 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/Employees",
+      "DownstreamScheme": "https",
+      "DownstreamHttpMethod": "GET",
+      "RouteIsCaseSensitive": false,
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "7194"
+        }
+      ],
+      "UpstreamPathTemplate": "/Employees/ViewEmployees",
+      "UpstreamHttpMethod": [ "Get" ]
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "GatewayAuthenticationKey",
+      //  "AllowedScopes": []
+      //}
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:44300"
+  }
+}

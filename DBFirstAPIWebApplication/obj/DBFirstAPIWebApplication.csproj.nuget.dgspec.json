@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Practice\\DBFirstAPIWebApplication\\DBFirstAPIWebApplication.csproj": {}
+    "D:\\Training\\MvcProjectRepo\\DBFirstAPIWebApplication\\DBFirstAPIWebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Practice\\DBFirstAPIWebApplication\\DBFirstAPIWebApplication.csproj": {
+    "D:\\Training\\MvcProjectRepo\\DBFirstAPIWebApplication\\DBFirstAPIWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Practice\\DBFirstAPIWebApplication\\DBFirstAPIWebApplication.csproj",
+        "projectUniqueName": "D:\\Training\\MvcProjectRepo\\DBFirstAPIWebApplication\\DBFirstAPIWebApplication.csproj",
         "projectName": "DBFirstAPIWebApplication",
-        "projectPath": "C:\\Practice\\DBFirstAPIWebApplication\\DBFirstAPIWebApplication.csproj",
+        "projectPath": "D:\\Training\\MvcProjectRepo\\DBFirstAPIWebApplication\\DBFirstAPIWebApplication.csproj",
         "packagesPath": "C:\\Users\\cogdotnet1686\\.nuget\\packages\\",
-        "outputPath": "C:\\Practice\\DBFirstAPIWebApplication\\obj\\",
+        "outputPath": "D:\\Training\\MvcProjectRepo\\DBFirstAPIWebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
